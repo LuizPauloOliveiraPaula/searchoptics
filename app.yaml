@@ -1,3 +1,4 @@
+application: searchoptics
 runtime: php55
 instance_class: F1
 automatic_scaling:
